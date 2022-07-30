@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Downloads\\Compressed\\webProject-master"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\Compressed\\DSC_Web3_Project"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\Compressed\\googleaccount"
+		},
+		{
+			"path": ".."
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "googleaccount",
+    "liveServer.settings.port": 5501
+  }
+}
